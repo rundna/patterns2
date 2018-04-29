@@ -1,6 +1,7 @@
-package com.kodilla.patterns2.adapter.bookclassifier;
+package com.kodilla.patterns2.adapter.bookclasifier;
 
 //import com.kodilla.patterns2.adapter.bookclasifier.librarya.Book;
+import com.kodilla.patterns2.adapter.bookclasifier.MedianAdaptee;
 import com.kodilla.patterns2.adapter.bookclasifier.librarya.Classifier;
 import com.kodilla.patterns2.adapter.bookclasifier.libraryb.BookSignature;
 import com.kodilla.patterns2.adapter.bookclasifier.libraryb.Book;
